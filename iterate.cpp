@@ -1,4 +1,5 @@
 //WAP for iterate 
+//Iteration means repeating a set of instructions again and again until a condition is met.
 #include <iostream>
 using namespace std;
 
