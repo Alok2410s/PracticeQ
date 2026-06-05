@@ -50,7 +50,7 @@ TOKENS
 
 There are 5 types of operators 
 
-Keywords , Identifiers , operators, separators
+Keywords , Identifiers , operators, separators, Literals
 
 Keywords : Keywords are words to define by language for particular job that job can't by the program it is as reserve words.
 
@@ -60,7 +60,7 @@ Operators : Symbols is used to perform operations over code.
 
 Separater :symbols used to perform separation in our code .
 
-Laterals : constant dat our program 
+Literals : constant dat our program 
          types:
          1. integer lateral
          2. floating point lateral 
