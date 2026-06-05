@@ -1,0 +1,71 @@
+Programming is artifical language used to connect with machine.
+
+Translator:
+            Translator are software that are used to convert over source code rewritten in high level language into machine code.
+
+             source code/program  ---> compiler/Interpreter ---> machine code ---> binary language 
+
+program language is used to bluid software.
+
+DEVELOPER :
+
+James Gosling
+First version build in 1991 to 1995
+Developed by Sun Microsystem
+It's first name is oak and second name is Green
+
+
+MAIN features:
+      JRE -> Java runtime environment
+      JVM -> Java virtual machine 
+      JIT -> Just in time
+      JDK -> Java development kit
+
+Java C compiler is platfrom indepent
+JRE is platform dependent
+
+It is JRE provide Security.
+
+---------
+|       |
+|       |   first.java file name
+|       |
+|       |
+---------
+   |
+--------
+|      |    Byte code 
+|      |    first.class
+--------
+    |
+    |
+____________________________________________
+|                  |                     |
+windows         macOS                 Linux
+  |               |                     |
+JVM/JIT         JVM/JIT               JVM/JIT
+
+
+TOKENS
+
+There are 5 types of operators 
+
+Keywords , Identifiers , operators, separators
+
+Keywords : Keywords are words to define by language for particular job that job can't by the program it is as reserve words.
+
+Identifier : Identifier are the name give a to variable function , class etc.
+
+Operators : Symbols is used to perform operations over code.
+
+Separater :symbols used to perform separation in our code .
+
+Laterals : constant dat our program 
+         types:
+         1. integer lateral
+         2. floating point lateral 
+         3. character lateral
+         4. string
+         5. boolean
+         6. null
+
