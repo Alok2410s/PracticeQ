@@ -78,6 +78,33 @@ After 10 in Hexadecimal is used in A=10, B=11, C=12, D=14, E=15,etc.
 
 Underline( _ )  is used for credibility.
 
+enter --> 10
+space --> 32
+a-z   --> start 97
+A-Z   --> start 65
 
 
+VARIABLE :
+      Variable is container is container to store data.
+      It is reserved memory location in the computers memory to store data and that data can be change as per our needs.
+
+DATA Type :
+     It is predefined word that tells about three things 
+     1. Type of data
+     2. size
+     3. range
+
+Primitive     --> byte(1 byte), short(2 byte), int(4 byte), long(8 byte), float(4 byte), double(8 byte), boolean(1 byte), char(2 byte), void(N/A)
+Non-primitive --> class, object
+
+Gapping Rule of Tokkens
+
+In between the 
+      Keyword and keyword
+      identifier and identifier
+      keyword and identifier
+      identifier and keyword
+
+gap(spaceor new line) is compulsory.
+In between other tokens gap is optional.
 
