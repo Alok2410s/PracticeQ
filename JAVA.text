@@ -29,8 +29,6 @@ It is JRE provide Security.
 ---------
 |       |
 |       |   first.java file name
-|       |
-|       |
 ---------
    |
 --------
@@ -39,7 +37,7 @@ It is JRE provide Security.
 --------
     |
     |
-____________________________________________
+__________________________________________
 |                  |                     |
 windows         macOS                 Linux
   |               |                     |
@@ -68,4 +66,18 @@ Literals : constant dat our program
          4. string
          5. boolean
          6. null
+
+Integer Literal:
+
+   Decimal    ---> 0-9  
+   Octal      ---> 0-7  ->0
+   Binary     ---> 0-1  ->0b
+   Hexadecimal --> 0-15 ->0x
+
+After 10 in Hexadecimal is used in A=10, B=11, C=12, D=14, E=15,etc.
+
+Underline( _ )  is used for credibility.
+
+
+
 
