@@ -108,3 +108,38 @@ In between the
 gap(spaceor new line) is compulsory.
 In between other tokens gap is optional.
 
+TypeCasting : Conversion of one data type into another is known as typecasting
+  types:
+        1. Implicit (widening)  
+        2. Explicit (narrowing)
+
+Impilcit Typecasting: In this we convert smaller data to larger data type.
+                      It is automatically run by compiler.
+
+Explicit Typecasting : In this we convert larger data into smaller data type.
+                       We have to do it manually.
+                       It is also known as lossy conversion.
+
+Assignment Operator : It assign right hand side value to left hand side variable.
+Arithmetic Operator : 
+         int/int       => int
+         int/double    => double
+         double/int    => double
+         double/double => double
+
+precedence: 
+        ()
+        *, /, %
+        +, -
+        /=, +=, -=, *=, =, %=
+
+Short Hand operator (/=, +=, -=, *=, =, %=)
+
+Increment/Decrement : It increase or decrease variable value by one.              
+
+     pre --> first update then use
+     post -> first use then update
+
+Conditional Operator -> (? :) aryan kallu hai ya nahi ? to true : false.
+
+Bitwise Operator :  (& | ^ << >> ~)
