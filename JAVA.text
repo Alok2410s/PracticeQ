@@ -143,3 +143,11 @@ Increment/Decrement : It increase or decrease variable value by one.
 Conditional Operator -> (? :) aryan kallu hai ya nahi ? to true : false.
 
 Bitwise Operator :  (& | ^ << >> ~)
+
+Printing Functions
+   printing functions iin java
+   printf  : print with format specifier
+   format  : print with format specifier (same as printf)
+   print   : print without format specifier
+   println : print with new line and without format specifier
+
