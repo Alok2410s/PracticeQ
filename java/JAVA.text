@@ -151,3 +151,14 @@ Printing Functions
    print   : print without format specifier
    println : print with new line and without format specifier
 
+import scanner :
+      byte f=sc.nextbyte();
+      short s=sc.nextShort();
+      int  i=sc.nextInt();
+      long l=sc.nextLong();
+      float ff=sc.nextFloat();
+      double d=sc.nextDouble();
+      boolean bb=sc.nextBoolean();
+      string SS=sc.next();
+      string ssl=sc.nextLine();
+      char cc=sc.next().charAt(0);
