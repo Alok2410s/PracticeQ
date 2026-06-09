@@ -5,10 +5,18 @@ public class DecisionMakingEx1{
          
         System.out.println("Enter your age:");
         int age=sc.nextInt();
-        if(age>=13 && age<=19){
-            System.out.println("you're teenager:");
+        if(age>=0 && age<=4){
+            System.out.println("you're Infant:");
+        }else if(age>=4 && age<=12){
+            System.out.println("you're child:");
+        }else if(age>=12 && age<=19){
+            System.out.println("you're teen:");
+        }else if(age>=19 && age<=50){
+            System.out.println("you're adult:");
+        }else if(age>=50 && age<=80){
+            System.out.println("you're old:");
         }else{
-            System.out.println("you're not teenage:");
+            System.out.println("you're died at above 80");
         }
     }
 }
