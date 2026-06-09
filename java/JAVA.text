@@ -162,3 +162,12 @@ import scanner :
       string SS=sc.next();
       string ssl=sc.nextLine();
       char cc=sc.next().charAt(0);
+
+Decision Making Satement are used to execute given set of statement on the basis of a given condition 
+  It is a four types:  
+               1. if          |
+               2. if else     |---> condition based
+               3. if else if  |
+
+               4. switch      ----> Value making
+
