@@ -171,3 +171,7 @@ Decision Making Satement are used to execute given set of statement on the basis
 
                4. switch      ----> Value making
 
+If Nested conditional statement:
+             If one condition is depend upon another condition then we nested conditional statement
+
+Q1. WAP to check whether a number is positive, negative or zero if the number is positive also print its even or odd.
