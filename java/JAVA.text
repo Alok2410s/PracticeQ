@@ -190,3 +190,27 @@ Loop : Loop statement are used to repeate a block of code depending upon conditi
       for(Initilization; Testexpression; Update){
             //Statements
       }
+
+Q1. Loop 1+2+3+4+5=15
+Q2. WAP to accept two and a chracter + - * / % and the basis that char we have to perform operation
+
+
+Syntax : 
+  while(condition){
+      statement
+  }
+
+  -------------
+  |           |
+  | condition |----------
+  |           |         |
+  -------------       Exit
+       |
+       |
+   ----------
+   |  Body  |
+   ----------  
+
+   
+     
+
