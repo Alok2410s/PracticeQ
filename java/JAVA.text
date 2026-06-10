@@ -175,3 +175,18 @@ If Nested conditional statement:
              If one condition is depend upon another condition then we nested conditional statement
 
 Q1. WAP to check whether a number is positive, negative or zero if the number is positive also print its even or odd.
+
+Switch Statement: 
+ 1. It only works with byte, short, int, char, string and wrapper class.
+    It don't works long, float, double, boolean
+
+Loop : Loop statement are used to repeate a block of code depending upon condition or range  for, Do-while
+
+ for loop: 
+      for(int a=1; a<=10;a++){
+            SOP("Alok");
+      }
+
+      for(Initilization; Testexpression; Update){
+            //Statements
+      }
