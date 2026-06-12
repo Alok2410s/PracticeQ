@@ -184,7 +184,7 @@ Loop : Loop statement are used to repeate a block of code depending upon conditi
 
  for loop: 
       for(int a=1; a<=10;a++){
-            SOP("Alok");
+            //SOP("Alok");
       }
 
       for(Initilization; Testexpression; Update){
@@ -243,7 +243,7 @@ Jump Statement :
 
 Function:
        function is block of code used to perform a specific task.
-       
+
        Need a Function :
                1. Provide code reusability 
                2. Remove dulicacy
@@ -255,3 +255,22 @@ Function:
                                            2.Name
                                            3.Argument list 
                                            4.Body
+
+To call a function need to two things:
+                                       1.Name
+                                       2.Argument
+
+Return type indicate that the function is returing or not.  After the execution of the body.
+
+Arugment list is set of data that the wants or needs in order to perform its task or job.
+
+Types of Function: 
+                1. function with no arguments and no retutn type
+                2. function with arguments but no return type
+                3. function with no argument but return type
+                4. function with argument and return type
+                5. fuction with simple return type
+
+OOPS (Object oriented programming) : It is created by Alankay.
+                                     First programming language was simula
+                                     
