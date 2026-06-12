@@ -16,7 +16,8 @@ public class ScannerEx {
 		String s1=sc.nextLine();
 		System.out.println(s1);
 		System.out.println("Enter a Charaacter");
-		char c=sc.next().charAt(0);
+		char c
+		=sc.next().charAt(0);
 		System.out.println(s);
 	}
 }

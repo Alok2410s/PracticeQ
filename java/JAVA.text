@@ -215,5 +215,43 @@ Syntax :
 Q3. WAP to count the no. of digits entered by user.
 Q4. WAP to accept a number from user and print the fibonacci series upto n terms.
 
-      
+DoWhile Loop : 
+       do{
+            //statement
+       } while(testExpression)
 
+
+-------------
+|    Body   |<-----
+-------------     |
+      |           |
+-------------     |
+|           |     |
+| condition |-----|--------
+|           |     |       |
+-------------     |      Exit
+     |            |
+     --------------
+
+if yes ya no ke option ke alawa koi or keyword use na kare show karega invalid in do while loop.
+
+Jump Statement : 
+       Break or continue.
+
+       Break : It is used to terminate the loop immediately.
+       Continue : continue is the iteration of the loop
+
+Function:
+       function is block of code used to perform a specific task.
+       
+       Need a Function :
+               1. Provide code reusability 
+               2. Remove dulicacy
+               3. Increase modularity
+               4. Helps in debugging
+
+                Syntax to create a function :
+                                           1.Return type 
+                                           2.Name
+                                           3.Argument list 
+                                           4.Body
