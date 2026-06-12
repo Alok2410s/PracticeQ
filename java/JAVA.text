@@ -273,4 +273,32 @@ Types of Function:
 
 OOPS (Object oriented programming) : It is created by Alankay.
                                      First programming language was simula
+                                     First famous programming language to implement OOPS was C++
                                      
+
+OOPS is programming paradigm (paradigm is way of writting a code)
+
+Class : 
+       class is blueprint\template\designs to create object
+       It is logical entity that Encapsulate Attributes (variables) and Behavior(method) into a single unit
+       It is user define data.
+
+
+Object :    
+         It is a real world entity create from that blueprint 
+         An object is instance of a class
+         It occupied memory
+
+Pillar of OOPS :
+                Abstraction 
+                Encapsulation
+                Inheritance 
+                Polymorphism
+
+Abstraction :
+             Hiding the complexity by providing functionality
+
+Encapsulation : 
+               
+              
+        
